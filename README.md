@@ -21,7 +21,8 @@ var precoEmReal = (precoEmDolar * cotacaodoDolar).toFixed(2);
 
 nome = prompt('Qual é o seu nome?');
 
-alert(`Oi ${nome}, o preço é R$ ${precoEmReal}`); ```
+alert(`Oi ${nome}, o preço é R$ ${precoEmReal}`);
+```
 
 ## CSS
 
@@ -70,6 +71,7 @@ body > img {
 img {
     max-height: 250px;
 }
+```
 
 ## HTML
 
@@ -95,7 +97,7 @@ img {
 </body>
 <script src="index.js"></script>
 </html>
-
+```
 ## Usage
 Open the index.html file in your preferred web browser.
 
