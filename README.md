@@ -23,6 +23,9 @@ nome = prompt('Qual é o seu nome?');
 
 alert(`Oi ${nome}, o preço é R$ ${precoEmReal}`);
 
+## CSS
+
+```CSS
 body {
     font-family: "Roboto Mono", monospace;
     text-align: center;
@@ -68,6 +71,10 @@ img {
     max-height: 250px;
 }
 
+## HTML
+
+```HTML
+
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -89,10 +96,10 @@ img {
 <script src="index.js"></script>
 </html>
 
-##Usage
+## Usage
 Open the index.html file in your preferred web browser.
 
 Input the amount in dollars when prompted, and the converted value will be displayed.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find a bug, have a suggestion, or want to contribute in any way, please open an issue or create a pull request.
