@@ -21,7 +21,7 @@ var precoEmReal = (precoEmDolar * cotacaodoDolar).toFixed(2);
 
 nome = prompt('Qual é o seu nome?');
 
-alert(`Oi ${nome}, o preço é R$ ${precoEmReal}`);
+alert(`Oi ${nome}, o preço é R$ ${precoEmReal}`); ```
 
 ## CSS
 
@@ -103,3 +103,4 @@ Input the amount in dollars when prompted, and the converted value will be displ
 
 ## Contributing
 Contributions are welcome! If you find a bug, have a suggestion, or want to contribute in any way, please open an issue or create a pull request.
+
